@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html{
+  font-size: 15px;
+}
+body{
+height: 100vh;
+width: 100vw;
+}
+
+.container{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5rem;
+}
+.card1 h1{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 3rem;
+}
+
+.card1 iframe{
+margin-left:3.8rem ;
+margin-top: 4rem;
+width: 40rem;
+height: 25rem;
+border-radius: 3rem;
+border-color: azure;
+
+} 
+
+
+  
+
